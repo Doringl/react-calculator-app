@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', 'Roboto';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(89deg, #32dd88 0%, #61dafb 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
